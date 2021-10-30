@@ -1,0 +1,20 @@
+{
+  "name": "discord-bot",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "khang-nd",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
