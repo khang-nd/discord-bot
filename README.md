@@ -9,6 +9,6 @@
 
 - Clone the repo.
 - Install dependencies with `yarn` or `npm install`.
-- Create a `config.json` file with your [bot token](https://discordjs.guide/creating-your-bot/#creating-configuration-files) and other settings.
+- Create a `config.json` file with your [bot token](https://discordjs.guide/creating-your-bot/#creating-configuration-files) at the root of the repository.
 - Handle your bot logic for the necessary events in `src/events` folder.
 - Run the bot with `yarn start` or `npm start`.
